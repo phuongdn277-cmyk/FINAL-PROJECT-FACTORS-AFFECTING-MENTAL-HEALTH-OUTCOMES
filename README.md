@@ -17,21 +17,26 @@ This is the final project of the Data Analyst course. It is about analyzing Glob
   + The last updated time of the dataset: 18/12/2025
   + Each record represents an anonymous patient
 - **Structure:**
-  + `Patient_ID:` Unique anonymized identifier assigned to each patient record
-  + `Age:` Age of the individual in years (18 to 80)
-  + `Gender:` Gender of the patient
-  + `Country:` Country of residence of the patient
-  + `Depression_Score:` Depression severity score based on the PHQ-9 scale (0–27)
-  + `Anxiety_Score:` Anxiety severity score based on the GAD-7 scale (0–21)
-  + `Stress_Level:` Self-reported stress level (Low, Medium, High, Severe)
-  + `Sleep_Hours :` Average number of hours slept per night
-  + `Physical_Activity:` Level of regular physical activity (None, Low, Moderate, High)
-  + `Chronic_Illness:` Indicates presence of any ongoing physical health condition (Yes/No)
-  + `Mental_Health_History:` Whether the patient has a prior mental health diagnosis (Yes/No)
-  + `Treatment:` Type of mental health treatment received (None, Therapy, Medication, Both)
-  + `Days_of_Treatment:` Total number of days the patient has undergone treatment
-  + `Outcome:` Overall treatment outcome or mental health status (Poor, Fair, Good, Excellent)
-  + `Work_Status:` Current employment or academic status of the patient
+
+| Variable              | Description                        |
+| --------------------- | ---------------------------------- |
+| `Patient_ID`            | Unique anonymized identifier       |
+| `Age`                   | Age (18–80)                        |
+| `Gender`                | Male / Female                      |
+| `Country`               | Country of residence               |
+| `Depression_Score`      | PHQ-9 score (0–27)                 |
+| `Anxiety_Score`         | GAD-7 score (0–21)                 |
+| `Stress_Level`          | Low / Medium / High / Severe       |
+| `Sleep_Hours`           | Average number of hours slept per night                |
+| `Physical_Activity`     | None / Low / Moderate / High       |
+| `Chronic_Illness`       | Yes / No                           |
+| `Mental_Health_History` | Yes / No                           |
+| `Treatment`             | None / Therapy / Medication / Both |
+| `Days_of_Treatment`     | Number of treatment days           |
+| `Outcome`               | Poor / Fair / Good / Excellent     |
+| `Work_Status`           | Unemployed / Employed / Student / Retired      |
+
+
 - **Data Overview:**
 
 |      | Patient_ID   |   Age | Gender   | Country       |   Depression_Score |   Anxiety_Score | Stress_Level   |   Sleep_Hours | Physical_Activity   | Chronic_Illness   | Mental_Health_History   | Treatment   |   Days_of_Treatment | Outcome   | Work_Status   |
@@ -45,7 +50,7 @@ This is the final project of the Data Analyst course. It is about analyzing Glob
 ---
 
 ## Tools and Technologies Applied
-- **Programming Language:** Python 3.x  
+- **Language:** Python 3.x  
 - **Libraries:** pandas, matplotlib, seaborn, statsmodels, numpy, OrderedModel, scikit-learn
 
 ```python
