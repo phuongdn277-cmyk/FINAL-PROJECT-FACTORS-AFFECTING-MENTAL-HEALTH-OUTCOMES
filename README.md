@@ -248,8 +248,7 @@ Based on the analysis results, we propose the following hypotheses:
 ---
 
 ## Recommendations based on analysis results
-- Results suggest that structural and contextual factors such as country and work status play a more important role in mental health outcomes than individual clinical or lifestyle variables.
-- Mental health strategies should therefore prioritize country-level policies, workplace interventions, and preventive care rather than focusing solely on individual treatment.
+- Results suggest that structural and contextual factors such as country and work status play a more important role in mental health outcomes than individual clinical or lifestyle variables. Mental health strategies should therefore prioritize country-level policies, workplace interventions, and preventive care rather than focusing solely on individual treatment.
 - Incorporating additional socioeconomic and contextual variables, such as income, access to healthcare, and social support, will help to better understand the determinants of mental health. Improvements in data collection and measurement should be made to more detailed data.
 
 ---
