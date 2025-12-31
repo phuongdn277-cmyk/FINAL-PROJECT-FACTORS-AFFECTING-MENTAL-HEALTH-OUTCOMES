@@ -249,12 +249,15 @@ Based on the analysis results, we propose the following hypotheses:
 
 ## Recommendations based on analysis results
 - Results suggest that structural and contextual factors such as country and work status play a more important role in mental health outcomes than individual clinical or lifestyle variables. Mental health strategies should therefore prioritize country-level policies, workplace interventions, and preventive care rather than focusing solely on individual treatment.
+- Employers and educational institutions should provide targeted mental health support, especially for students and employed individuals.
 - Incorporating additional socioeconomic and contextual variables, such as income, access to healthcare, and social support, will help to better understand the determinants of mental health. Improvements in data collection and measurement should be made to more detailed data.
 
 ---
 
 ## Limitations
-This study has several limitations. Most notably, the dataset lacks key socioeconomic and environmental variables, such as income, healthcare access, and social support, which restricts the ability to fully explain variations in mental health outcomes across individuals and countries.
+- This study has several limitations. Most notably, the dataset lacks key socioeconomic and environmental variables, such as income, healthcare access, and social support, which restricts the ability to fully explain variations in mental health outcomes across individuals and countries.
+- Cross-sectional data does not allow causal inference.
+- Mental health outcomes rely on self-reported measures.
 
 ---
 📬 Author
